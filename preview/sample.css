@@ -1,0 +1,13 @@
+/* Generic CSS preview: selectors, properties, units and values. */
+:root {
+  --accent: #81cfe0;
+}
+.counter:hover, #preview {
+  color: var(--accent);
+  display: flex;
+  padding: 8px 12px;
+  font-family: "Helvetica", sans-serif;
+}
+@media (max-width: 640px) {
+  .counter { opacity: 0.8; }
+}

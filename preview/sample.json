@@ -1,0 +1,8 @@
+{
+  "theme": "Trae Deep Blue",
+  "version": "0.1.0",
+  "enabled": true,
+  "count": 42,
+  "optional": null,
+  "colors": ["blue", "green", "purple"]
+}

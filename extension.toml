@@ -1,0 +1,7 @@
+id = "zed-deep-blue"
+name = "Trae Deep Blue"
+version = "0.1.0"
+schema_version = 1
+authors = ["zetttt"]
+description = "A Deep Blue theme for Zed, inspired by Trae, with coordinated syntax and UI colors."
+themes = ["themes/trae-deep-blue.json"]

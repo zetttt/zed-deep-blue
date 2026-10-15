@@ -1,0 +1,23 @@
+{
+  "theme": "Trae Deep Blue",
+  "ui_font_family": "SF Pro Text",
+  "ui_font_size": 16,
+  "buffer_font_family": "JetBrains Mono",
+  "buffer_font_size": 13,
+  "buffer_line_height": { "custom": 1.75 },
+  "agent_ui_font_size": 16,
+  "agent_buffer_font_size": 14,
+  "markdown_preview": {
+    "font_size": 14
+  },
+  "terminal": {
+    "font_family": "JetBrains Mono",
+    "font_size": 12,
+    "line_height": "standard"
+  },
+  "project_panel": {
+    "entry_spacing": "standard",
+    "indent_size": 20,
+    "sticky_scroll": false
+  }
+}

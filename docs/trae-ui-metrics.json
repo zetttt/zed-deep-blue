@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-15",
+  "method": "Trae DevTools getComputedStyle; shared preview/sample.ts; devicePixelRatio=1",
+  "metrics": {
+    "ui": {
+      "font": "\"SF Pro Text\", -apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", sans-serif",
+      "size": "13px",
+      "weight": "400",
+      "line": "18.2px",
+      "height": "1410px",
+      "padding": "0px"
+    },
+    "editor": {
+      "font": "\"JetBrains Mono\", Menlo, Monaco, \"Courier New\", monospace",
+      "size": "13px",
+      "weight": "400",
+      "line": "22px",
+      "height": "1296px",
+      "padding": "0px"
+    },
+    "tab": {
+      "font": "\"SF Pro Text\", -apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", sans-serif",
+      "size": "13px",
+      "weight": "400",
+      "line": "18.2px",
+      "height": "40px",
+      "padding": "0px 6px 0px 12px"
+    },
+    "treeRow": {
+      "font": "\"SF Pro Text\", -apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", sans-serif",
+      "size": "13px",
+      "weight": "400",
+      "line": "22px",
+      "height": "22px",
+      "padding": "0px 4px"
+    },
+    "status": {
+      "font": "\"SF Pro Text\", -apple-system, \"system-ui\", \"PingFang SC\", \"Hiragino Sans GB\", sans-serif",
+      "size": "11px",
+      "weight": "400",
+      "line": "18.2px",
+      "height": "20px",
+      "padding": "0px 16px 0px 4px"
+    }
+  }
+}
